@@ -40,4 +40,4 @@
 
 ---
 
-> *Made with ❤️ in France – by Mateo Davey*
+> *Made with ❤️ in France – by RandomFrenchMaker*
