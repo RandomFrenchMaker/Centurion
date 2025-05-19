@@ -16,19 +16,23 @@
 
 ### 🔧 Status
 
-> ✅ Project setup started — first prototype in progress  
-> 🧪 Testing motion systems (servo-based leg)  
-> 🖨️ Parts currently being 3D printed  
+> ✅ Project setup started — first prototype in progress
+      - Waiting for ball bearings to be delivered.
+> 🧪 Testing motion systems (servo-based leg)
+>     - Waiting for Arduino Mega to be delivered.  
+> 🖨️ Parts currently being 3D printed
+      - The first prototype will be printed of the model of KYD0523 (link in the links section)
+      - Legs printed
 > 📸 First video teaser planned for release
-
+      - Waiting to finish prototype.
 ---
 
 ### 📦 Tech Stack
 
 - Raspberry Pi 5 / Jetson Nano
+        llama + Synthia 7B for raspberry Pi. YOLO for Jetson Nano.
 - ROS 2 (robot operating system)
 - MQTT + Python
-- LLM (local chatbot)
 - USB Camera / LIDAR / Ultrasound
 - Servo-based legs (custom + open-source base)
 
@@ -36,8 +40,8 @@
 
 ### 🔗 Links
 
-- [More coming soon: Dev blog, video updates, documentation...]
-
+- 3D model from KYD0523 : https://www.thingiverse.com/thing:3445283
+- instagram : https://www.instagram.com/caan218/
 ---
 
 > *Made with ❤️ in France – by RandomFrenchMaker*
