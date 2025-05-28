@@ -19,6 +19,7 @@
 ✅ Project setup started — first prototype in progress
 
   - Legs have been printed and servos installed.
+  
   - Structural chassis assembly underway.
   
 🧪 Testing motion systems (servo-based leg)
@@ -36,6 +37,7 @@
 🧠 New hardware received
 
   - Jetson Orin Nano Super will handle vision and perception (ROS 2).
+  
   - LIDAR 360° sensor received, integration in progress.
   
 ---
