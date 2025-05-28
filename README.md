@@ -17,7 +17,7 @@
 ### 🔧 Status
 
 ✅ Project setup started — first prototype in progress
-  - Legs and chassis have been printed and servos installed.
+  - Legs have been printed and servos installed.
   - Structural chassis assembly underway.
 🧪 Testing motion systems (servo-based leg)
   - Arduino Mega received but arrived damaged — a replacement has been ordered.
