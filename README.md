@@ -28,6 +28,7 @@
 🧠 New hardware received
   - Jetson Orin Nano Super will handle vision and perception (ROS 2).
   - LIDAR 360° sensor received, integration in progress.
+  
 ---
 
 ### 📦 Tech Stack
