@@ -17,19 +17,24 @@
 ### 🔧 Status
 
 ✅ Project setup started — first prototype in progress
+
   - Legs have been printed and servos installed.
   - Structural chassis assembly underway.
   
 🧪 Testing motion systems (servo-based leg)
+
   - Arduino Mega received but arrived damaged — a replacement has been ordered.
   
 🖨️ Parts currently being 3D printed
+
   - Main body is being adapted and printed based on the open-source KYD0523 model (link in the links section).
   
 📸 First video teaser planned for release
+
   - To be filmed once the prototype is assembled.
   
 🧠 New hardware received
+
   - Jetson Orin Nano Super will handle vision and perception (ROS 2).
   - LIDAR 360° sensor received, integration in progress.
   
