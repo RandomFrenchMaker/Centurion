@@ -55,6 +55,8 @@
 
 ### 🔗 Links
 
+- NVIDIA JETSON has been ordered from our sponsor : DHRobot! : https://www.dfrobot.com/product-2900.html
+- LIDAR has also been ordered from our sponsor : https://www.dfrobot.com/product-2803.html
 - 3D model from KYD0523 : https://www.thingiverse.com/thing:3445283
 - instagram : https://www.instagram.com/caan218/
 ---
